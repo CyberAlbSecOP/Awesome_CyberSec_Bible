@@ -1,1 +1,1 @@
-# Komplete_CyberSecurity_Knowledge
+# Cybersecurity_Full_Theory
