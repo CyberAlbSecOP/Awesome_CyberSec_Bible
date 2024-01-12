@@ -1,13 +1,13 @@
 # Cybersecurity_Full_Theory
-----
 
 - This is a work-in-progress project.
 - I am creating a full knowledge index for cybersecurity.
 - Once I am done with the full table of contents, I will add theory and resources.
 - Enjoy and keep learning!
 
-# Cybersecurity Hard Skills
 ----
+
+# Cybersecurity Hard Skills
 
 - [Android Security](#AndroidSecurity)
 - [AppSec](#AppSec)
@@ -53,8 +53,10 @@
 - [WiFi Arsenal](#WiFiArsenal)
 - [YARA](#YARA)
 
+----
+
 # IT Hard Skills
------
+
 
 - [Platforms](#Platforms)
 - [Programming Languages](#Programming-Languages)
@@ -78,8 +80,9 @@
 - [Health and Social Science](#Health-and-Social-Science)
 - [Testing](#Testing)
 
+----
+
 # Soft Skills
------
 
 - [Communication Skills](#Communication-Skills)
 - [Problem-Solving Skills](#Problem-Solving-Skills)
@@ -199,8 +202,9 @@
     - [Time Awareness](#Time-Awareness)
     - [Work-Life Balance](#Work-Life-Balance)
 
+----
+
 # Platforms
------
 
 - [Node.js](#Node.js)
 - [Frontend Development](#Frontend-Development)
@@ -248,8 +252,9 @@
 - [Capacitor](#Capacitor)
 - [ArcGIS Developer](#ArcGIS-Developer)
 
-# Communication Skills
 ----
+
+# Communication Skills
 
 - [Verbal Communication](#Verbal-Communication)
 - [Non-Verbal Communication](#Non-Verbal-Communication)
@@ -274,7 +279,5 @@
 - [Positive Reinforcement](#Positive-Reinforcement)
 - [Sensitivity](#Sensitivity)
 - [Tolerance](#Tolerance)
-
-
 
 -----
