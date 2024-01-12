@@ -7,7 +7,13 @@
 
 ----
 
-# Cybersecurity Hard Skills
+# Sections
+
+- [Cybersecurity Skills](#Cybersecurity-Skills)
+- [IT Skills](#IT-Skills)
+- [Work & Business Skills](#Work-&-Business-Skills)
+
+# Cybersecurity Skills
 
 - [Android Security](#AndroidSecurity)
 - [AppSec](#AppSec)
@@ -55,7 +61,7 @@
 
 ----
 
-# IT Hard Skills
+# IT Skills
 
 
 - [Platforms](#Platforms)
@@ -82,9 +88,32 @@
 
 ----
 
-# Soft Skills
+# Work & Business Skills
 
 - [Communication Skills](#Communication-Skills)
+    - [Verbal Communication](#Verbal-Communication)
+    - [Non-Verbal Communication](#Non-Verbal-Communication)
+    - [Visual Communication](#Visual-Communication)
+    - [Written Communication ](#Written-Communication)
+    - [Active Listening](#Active-Listening)
+    - [Clarity](#Clarity)
+    - [Confidence](#Confidence)
+    - [Interviewing](#Interviewing)
+    - [Negotiation](#Negotiation)
+    - [Personal Branding](#Personal-Branding)
+    - [Persuasion](#Persuasion)
+    - [Presentation Skills](#Presentation-Skills)
+    - [Public Speaking](#Public-Speaking)
+    - [Storytelling](#Storytelling)
+    - [Diplomacy](#Diplomacy)
+    - [Empathy](#Empathy)
+    - [Friendliness](#Friendliness)
+    - [Humour](Humour)
+    - [Networking](#Networking)
+    - [Patience](#Patience)
+    - [Positive Reinforcement](#Positive-Reinforcement)
+    - [Sensitivity](#Sensitivity)
+    - [Tolerance](#Tolerance)
 - [Problem-Solving Skills](#Problem-Solving-Skills)
     - [Analysis](#Analysis)
     - [Artistic Sense](#Artistic-Sense)
@@ -203,81 +232,3 @@
     - [Work-Life Balance](#Work-Life-Balance)
 
 ----
-
-# Platforms
-
-- [Node.js](#Node.js)
-- [Frontend Development](#Frontend-Development)
-- [iOS](#iOS)
-- [Android](#Android)
-- [IoT & Hybrid Apps](#IoT-&-Hybrid-Apps)
-- [Electron](#Electron)
-- [Cordova](#Cordova)
-- [React Native](#React-Native)
-- [Xamarin](#Xamarin)
-- [Linux](#Linux)
-- [macOS](#macOS)
-- [watchOS](#watchOS)
-- [JVM](#JVM)
-- [Salesforce](#Salesforce)
-- [Amazon Web Services](#Amazon-Web-Services)
-- [Windows](#Windows)
-- [IPFS](#IPFS)
-- [Fuse](#Fuse)
-- [Heroku](#Heroku)
-- [Raspberry Pi](#Raspberry-Pi)
-- [Qt](#Qt)
-- [WebExtensions](#WebExtensions)
-- [Smart TV](#Smart-TV)
-- [GNOME](#GNOME)
-- [KDE](#KDE)
-- [.NET](#.NET)
-- [Amazon Alexa](#Amazon-Alexa)
-- [DigitalOcean](#DigitalOcean)
-- [Flutter](#Flutter)
-- [Home Assistant](#Home-Assistant)
-- [IBM Cloud](#IBM-Cloud)
-- [Firebase](#Firebase)
-- [Robot Operating System 2.0](#Robot-Operating-System-2.0)
-- [Adafruit IO](#Adafruit-IO)
-- [Cloudflare](#Cloudflare)
-- [Actions on Google](#Actions-on-Google)
-- [ESP](#ESP)
-- [Deno](#Deno)
-- [DOS](#DOS)
-- [Nix](#Nix)
-- [Integration](#Integration)
-- [Node-RED](#Node-RED)
-- [Low Code](#Low-Code)
-- [Capacitor](#Capacitor)
-- [ArcGIS Developer](#ArcGIS-Developer)
-
-----
-
-# Communication Skills
-
-- [Verbal Communication](#Verbal-Communication)
-- [Non-Verbal Communication](#Non-Verbal-Communication)
-- [Visual Communication](#Visual-Communication)
-- [Written Communication ](#Written-Communication)
-- [Active Listening](#Active-Listening)
-- [Clarity](#Clarity)
-- [Confidence](#Confidence)
-- [Interviewing](#Interviewing)
-- [Negotiation](#Negotiation)
-- [Personal Branding](#Personal-Branding)
-- [Persuasion](#Persuasion)
-- [Presentation Skills](#Presentation-Skills)
-- [Public Speaking](#Public-Speaking)
-- [Storytelling](#Storytelling)
-- [Diplomacy](#Diplomacy)
-- [Empathy](#Empathy)
-- [Friendliness](#Friendliness)
-- [Humour](Humour)
-- [Networking](#Networking)
-- [Patience](#Patience)
-- [Positive Reinforcement](#Positive-Reinforcement)
-- [Sensitivity](#Sensitivity)
-- [Tolerance](#Tolerance)
-
------
