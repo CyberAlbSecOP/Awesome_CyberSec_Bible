@@ -26,14 +26,7 @@ Cybersecurity Hard Skills
 • Security Information and Event Management
 • Digital Forensics
 • Cloud Security
-• Programming:
-	 Python
-	 PHP
-	 Javascript
-	 SQL
-	 Java
-	 C/C++
-
+• Programming
  
 Soft Skills
 • Communication
