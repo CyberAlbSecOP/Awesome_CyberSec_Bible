@@ -1,6 +1,11 @@
 # Cybersecurity_Full_Theory
 ----
 
+- This is a work-in-progress project.
+- I am creating a full knowledge index for cybersecurity.
+- Once I am done with the full table of contents, I will add theory and resources.
+- Enjoy and keep learning!
+
 # Cybersecurity Hard Skills
 ----
 
@@ -77,29 +82,6 @@
 -----
 
 - [Communication Skills](#Communication-Skills)
-    - [Verbal Communication](#Verbal-Communication)
-    - [Non-Verbal Communication](#Non-Verbal-Communication)
-    - [Visual Communication](#Visual-Communication)
-    - [Written Communication ](#Written-Communication)
-    - [Active Listening](#Active-Listening)
-    - [Clarity](#Clarity)
-    - [Confidence](#Confidence)
-    - [Interviewing](#Interviewing)
-    - [Negotiation](#Negotiation)
-    - [Personal Branding](#Personal-Branding)
-    - [Persuasion](#Persuasion)
-    - [Presentation Skills](#Presentation-Skills)
-    - [Public Speaking](#Public-Speaking)
-    - [Storytelling](#Storytelling)
-    - [Diplomacy](#Diplomacy)
-    - [Empathy](#Empathy)
-    - [Friendliness](#Friendliness)
-    - [Humour](Humour)
-    - [Networking](#Networking)
-    - [Patience](#Patience)
-    - [Positive Reinforcement](#Positive-Reinforcement)
-    - [Sensitivity](#Sensitivity)
-    - [Tolerance](#Tolerance)
 - [Problem-Solving Skills](#Problem-Solving-Skills)
     - [Analysis](#Analysis)
     - [Artistic Sense](#Artistic-Sense)
@@ -265,5 +247,34 @@
 - [Low Code](#Low-Code)
 - [Capacitor](#Capacitor)
 - [ArcGIS Developer](#ArcGIS-Developer)
+
+# Communication Skills
+----
+
+- [Verbal Communication](#Verbal-Communication)
+- [Non-Verbal Communication](#Non-Verbal-Communication)
+- [Visual Communication](#Visual-Communication)
+- [Written Communication ](#Written-Communication)
+- [Active Listening](#Active-Listening)
+- [Clarity](#Clarity)
+- [Confidence](#Confidence)
+- [Interviewing](#Interviewing)
+- [Negotiation](#Negotiation)
+- [Personal Branding](#Personal-Branding)
+- [Persuasion](#Persuasion)
+- [Presentation Skills](#Presentation-Skills)
+- [Public Speaking](#Public-Speaking)
+- [Storytelling](#Storytelling)
+- [Diplomacy](#Diplomacy)
+- [Empathy](#Empathy)
+- [Friendliness](#Friendliness)
+- [Humour](Humour)
+- [Networking](#Networking)
+- [Patience](#Patience)
+- [Positive Reinforcement](#Positive-Reinforcement)
+- [Sensitivity](#Sensitivity)
+- [Tolerance](#Tolerance)
+
+
 
 -----
