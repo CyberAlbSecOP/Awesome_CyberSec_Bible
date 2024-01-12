@@ -1,43 +1,80 @@
 # Cybersecurity_Full_Theory
+----
 
-IT Hard Skills
-• Data Structures and Algorithms
-• Programming Languages
-• IDEs
-• Databases
-• OS
-• Network Systems
-• Testing
-• Cross-Platform software
-• Encryption and Cryptography
-• Software Life Cycle
-• Security of Informations
-• Microsoft office
-• Hardware Components
-• Artificial Intelligence
+# Cybersecurity Hard Skills
+----
 
-Cybersecurity Hard Skills
-• Ethical Hacking
-• Penetration Testing
-• Threat and Vulnerability Assestment
-• Firewall / IDS / IPS
-• Advanced Malware Prevention
-• Data Management Protection
-• Security Information and Event Management
-• Digital Forensics
-• Cloud Security
-• Programming
+- [Android Security](#AndroidSecurity)
+- [AppSec](#AppSec)
+- [Asset Discovery](#AssetDiscovery)
+- [Bug Bounty](#BugBounty)
+- [Capsulecorp Pentest](#CapsulecorpPentest)
+- [CTF](#CTF)
+- [Cyber Skills](#CyberSkills)
+- [DevSecOps](#DevSecOps)
+- [Embedded and IoT Security](#EmbeddedandIoTSecurity)
+- [Exploit Development](#ExploitDevelopment)
+- [Fuzzing](#Fuzzing)
+- [Hacking](#Hacking)
+- [Hacking Resources](#HackingResources)
+- [Honeypots](#Honeypots)
+- [Incident Response](#IncidentResponse)
+- [Industrial Control System Security](#IndustrialControlSystemSecurity)
+- [InfoSec](#InfoSec)
+- [IoT Hacks](#IoTHacks)
+- [Mainframe Hacking](#MainframeHacking)
+- [Malware Analysis](#MalwareAnalysis)
+- [OSINT](#OSINT)
+- [OSX and iOS Security](#OSXandiOSSecurity)
+- [Pcaptools](#Pcaptools)
+- [Pentest](#Pentest)
+- [PHP Security](#PHPSecurity)
+- [Real-time Communications hacking & pentesting resources](#Real-timeCommunicationshacking&pentestingresources)
+- [Red Teaming](#RedTeaming)
+- [Reversing](#Reversing)
+- [Reinforcement Learning for Cyber Security](#ReinforcementLearningforCyberSecurity)
+- [Sec Talks](#SecTalks)
+- [SecLists](#SecLists)
+- [Security](#Security)
+- [Serverless Security](#ServerlessSecurity)
+- [Social Engineering](#SocialEngineering)
+- [Static Analysis](#StaticAnalysis)
+- [The Art of Hacking Series](#TheArtofHackingSeries)
+- [Threat Intelligence](#ThreatIntelligence)
+- [Vehicle Security](#VehicleSecurity)
+- [Vulnerability Research](#VulnerabilityResearch)
+- [Web Hacking](#WebHacking)
+- [Windows Exploitation - Advanced](#WindowsExploitation-Advanced)
+- [WiFi Arsenal](#WiFiArsenal)
+- [YARA](#YARA)
 
-# Soft Skills for Developers and Leaders
+# IT Hard Skills
 -----
-Here I collect all important soft skills for everyone who are engaged in the IT-sphere. 
-Feel free to **star** and **fork**.
- 
-Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/soft-skills/issues)
 
-## Contents
+- [Platforms](#Platforms)
+- [Programming Languages](#Programming-Languages)
+- [Front-End Development](#Front-End-Development)
+- [Back-End Development](#Back-End-Development)
+- [Computer Science](#Computer-Science)
+- [Big Data](#Big-Data)
+- [Editors](#Editors)
+- [Gaming](#Gaming)
+- [Development Environment](#Development-Environment)
+- [Entertainment](#Entertainment)
+- [Databases](#Databases)
+- [Media](#Media)
+- [Security](#Security)
+- [Content Management Systems](#Content-Management-Systems)
+- [Hardware](#Hardware)
+- [Business](#Business)
+- [Work](#Work)
+- [Networking](#Networking)
+- [Decentralized Systems](#Decentralized-Systems)
+- [Health and Social Science](#Health-and-Social-Science)
+- [Testing](#Testing)
 
-- [Contents](#Contents)
+# Soft Skills
+-----
 
 - [Communication Skills](#Communication-Skills)
     - [Verbal Communication](#Verbal-Communication)
@@ -179,214 +216,54 @@ Any comments, suggestions? [Let me know!](https://github.com/valerii-chirkov/sof
     - [Task Tracking](#Task-Tracking)
     - [Time Awareness](#Time-Awareness)
     - [Work-Life Balance](#Work-Life-Balance)
-- [License](#License)
 
------
-<!--start-->
-
-## Communication Skills
-
-*Good communication skills are essential to allow others and yourself to understand information more accurately and quickly. 
-In contrast, poor communication skills lead to frequent misunderstanding and frustration.*
-
-#### Verbal Communication
-* [10 Ways To Improve](https://www.indeed.com/career-advice/career-development/how-to-improve-verbal-communication-skills) - 10 Ways To Improve Verbal Communication Skills.
-* [7 Tips to Improve](https://www.callrail.com/blog/7-tips-to-improve-verbal-communication-skills/) - 7 Tips to Improve Verbal Communication Skills.
-* [How to Develop](https://virtualspeech.com/blog/verbal-communication-skills) - How to Develop Effective Verbal Communication Skills.
-* [15 Excellent Habits](https://www.influencive.com/15-excellent-habits-to-improve-verbal-communication/) - 15 Excellent Habits to Improve Verbal Communication.
-* [9 Practical Ways](https://hr.berkeley.edu/9-practical-ways-improve-verbal-communication) - 9 Practical Ways to Improve Verbal Communication.
-* [11 Tips for 2021](https://connectedspeechpathology.com/blog/how-to-improve-communication-skills) - How to Improve Communication Skills: 11 Tips for 2021.
-* [Written And Verbal At Work](https://thebossmagazine.com/improve-written-verbal-communication/) - 7 Ways To Improve Your Written And Verbal Communication At Work.
-#### Non-Verbal Communication 
-* [10 Tips to Improve](https://www.verywellmind.com/top-nonverbal-communication-tips-2795400) - 10 Tips for Improving Your Nonverbal Communication.
-* [6 Ways to Improve](https://www.mentalhealthfirstaid.org/external/2018/06/6-ways-to-improve-your-non-verbal-communication-skills/) - 6 Ways to Improve Your Non-verbal Communication Skills
-* [Career Development Tips](https://www.glassdoor.com/blog/guide/nonverbal-communication-examples/?__cf_chl_jschl_tk__=pmd_Rxmfdv.bky8AAz_0qLVHyXkYKfunrCsi4csUyDRtvdM-1633028244-0-gqNtZGzNAlCjcnBszQel) - How to Improve Your Nonverbal Communication Skills.
-* [Techniques](https://smallbusiness.chron.com/techniques-improving-nonverbal-communication-skills-workplace-21411.html) - Techniques for Improving Your Nonverbal Communication Skills in the Workplace
-* [16 Best Ways](https://www.educba.com/improve-non-verbal-communication/) - 16 Best Ways To Improve Non Verbal Communication At Work.
-* [5 Steps to Improve](https://seekinghope.com/blog/non-verbal-communication/) - 5 Steps to Improve Your Non-Verbal Communication Skills.
-* [Definition and Examples](https://www.indeed.com/career-advice/career-development/nonverbal-communication-skills) - Nonverbal Communication Skills: Definition and Examples.
-#### Visual Communication 
-#### Written Communication 
-#### Active Listening
-#### Clarity
-#### Confidence
-#### Interviewing
-#### Negotiation
-#### Personal Branding
-#### Persuasion 
-#### Presentation Skills
-#### Public speaking
-#### Storytelling
-#### Diplomacy
-#### Empathy
-#### Friendliness
-#### Humour
-#### Networking
-#### Patience
-#### Positive Reinforcement 
-#### Sensitivity
-#### Tolerance
-
-[⬆ back to top](#Contents)
-
+# Platforms
 -----
 
-## Problem-Solving Skills
-
-*Why is it important? Employers like to see good problem solving skills because it also helps to show them you have a range of other competencies such as logic, creativity, resilience, imagination, lateral thinking and determination. It is a vital skills for your professional and personal life.*
-
-#### Analysis
-#### Artistic Sense
-#### Brainstorming
-#### Design
-#### Design Sense
-#### Divergent Thinking 
-#### Experimenting
-#### Imagination
-#### Innovation 
-#### Insight
-#### Inspiration
-#### Lateral Thinking
-#### Logical Reasoning 
-#### Mind mapping 
-#### Observation
-#### Persistence
-#### Questioning
-#### Reframing
-#### Troubleshooting 
-
-[⬆ back to top](#Contents)
-
------
-
-## Leadership Skills
-
-*Effective leaders have the ability to communicate well, motivate their team, handle and delegate responsibilities, listen to feedback, and have the flexibility to solve problems in an ever-changing workplace.
-Strong leadership skills are also valuable for all job applicants and employees.*
-
-#### People Management 
-#### Project Management 
-#### Remote Team Management
-#### Talent Management 
-#### Virtual Team Management 
-#### Meeting Management 
-#### Agility
-#### Coaching
-#### Conflict or Dispute Resolution 
-#### Cultural Intelligence 
-#### Deal-Making
-#### Decision-Making
-#### Delegation 
-#### Facilitating
-#### Give Clear Feedback 
-#### Managing Difficult Conversations
-#### Mentoring
-#### Strategic Planning 
-#### Supervising
-#### Team-Building 
-#### Versatility 
-#### Authenticity 
-#### Encouraging 
-#### Generosity 
-#### Humility
-#### Inspiring 
-
-[⬆ back to top](#Contents)
+- [Node.js](#Node.js)
+- [Frontend Development](#Frontend-Development)
+- [iOS](#iOS)
+- [Android](#Android)
+- [IoT & Hybrid Apps](#IoT-&-Hybrid-Apps)
+- [Electron](#Electron)
+- [Cordova](#Cordova)
+- [React Native](#React-Native)
+- [Xamarin](#Xamarin)
+- [Linux](#Linux)
+- [macOS](#macOS)
+- [watchOS](#watchOS)
+- [JVM](#JVM)
+- [Salesforce](#Salesforce)
+- [Amazon Web Services](#Amazon-Web-Services)
+- [Windows](#Windows)
+- [IPFS](#IPFS)
+- [Fuse](#Fuse)
+- [Heroku](#Heroku)
+- [Raspberry Pi](#Raspberry-Pi)
+- [Qt](#Qt)
+- [WebExtensions](#WebExtensions)
+- [Smart TV](#Smart-TV)
+- [GNOME](#GNOME)
+- [KDE](#KDE)
+- [.NET](#.NET)
+- [Amazon Alexa](#Amazon-Alexa)
+- [DigitalOcean](#DigitalOcean)
+- [Flutter](#Flutter)
+- [Home Assistant](#Home-Assistant)
+- [IBM Cloud](#IBM-Cloud)
+- [Firebase](#Firebase)
+- [Robot Operating System 2.0](#Robot-Operating-System-2.0)
+- [Adafruit IO](#Adafruit-IO)
+- [Cloudflare](#Cloudflare)
+- [Actions on Google](#Actions-on-Google)
+- [ESP](#ESP)
+- [Deno](#Deno)
+- [DOS](#DOS)
+- [Nix](#Nix)
+- [Integration](#Integration)
+- [Node-RED](#Node-RED)
+- [Low Code](#Low-Code)
+- [Capacitor](#Capacitor)
+- [ArcGIS Developer](#ArcGIS-Developer)
 
 -----
-
-## Work Ethic Skills
-
-*Work ethic is a valuable trait that employers look for in candidates. A strong work ethic allows you to focus on tasks, act in a professional manner, be persistent in trying situations, and demonstrate responsibility and dependability in the workplace.*
-
-#### Attentive 
-#### Business Ethics 
-#### Calm
-#### Commitment 
-#### Competitiveness 
-#### Curiosity 
-#### Dependability 
-#### Discipline 
-#### Emotion Management 
-#### Highly Organized 
-#### Independence 
-#### Initiative 
-#### Integrity 
-#### Motivated
-#### Open-Minded
-#### Optimistic 
-#### Perseverant
-#### Professional 
-#### Punctual
-#### Reliable 
-#### Resilient 
-#### Responsible
-#### Results-Oriented 
-#### Taking Criticism 
-#### Tolerance of Change and Uncertainty 
-#### Trainable 
-
-[⬆ back to top](#Contents)
-
------
-
-## Teamwork Skills
-
-*Teamwork skills are essential to your success at work, no matter your industry or job title. 
-Working well with clients, colleagues, managers and other people in your workplace can help you complete tasks efficiently while creating an enjoyable environment both for yourself and others.*
-
-#### Accept Feedback
-#### Collaborative
-#### Cooperation
-#### Coordination
-#### Deal with Difficult Situations
-#### Disability Awareness
-#### Diversity Awareness
-#### Emotional Intelligence
-#### Idea Exchange
-#### Influential
-#### Intercultural Competence
-#### Interpersonal Relationships Skills
-#### Mediation
-#### Office Politics Management
-#### Personality Conflicts Management
-#### Respectfulness
-#### Sales Skills
-#### Self-Awareness
-#### Social Skills
-
-[⬆ back to top](#Contents)
-
------
-
-## Time Management Skills
-
-*Time management skills help you avoid stress and get enough sleep. This has a powerful effect on the quality of your decisions and, in turn, affects almost every aspect of your life, from your career progression to your relationships, friendships and social life.*
-
-#### Acuity
-#### Allocating Resources
-#### Coping
-#### Critical Observation
-#### Focus
-#### Goal-Setting
-#### Introspection
-#### Memory
-#### Organization
-#### Personal Time Management
-#### Planning
-#### Prioritization
-#### Recall
-#### Scheduling
-#### Sense of Urgency
-#### Streamlining
-#### Stress Management
-#### Task Planning
-#### Task Tracking
-#### Time Awareness
-#### Work-Life Balance
-
-[⬆ back to top](#Contents)
-
------
-
-<!--end-->
