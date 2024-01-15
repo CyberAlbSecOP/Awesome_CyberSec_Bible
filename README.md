@@ -7,11 +7,9 @@
 
 ## Sections
 
-- [Cybersecurity\_Full\_Theory](#cybersecurity_full_theory)
-  - [Sections](#sections)
-    - [Cybersecurity Skills](#cybersecurity-skills)
-    - [IT Skills](#it-skills)
-    - [Work \& Business Skills](#work--business-skills)
+- [Cybersecurity Skills](#cybersecurity-skills)
+- [IT Skills](#it-skills)
+- [Work \& Business Skills](#work--business-skills)
 
 ### Cybersecurity Skills
 
