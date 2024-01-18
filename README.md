@@ -1,8 +1,9 @@
 # Cybersecurity_Full_Theory
 
-- This is a work-in-progress project.
-- I am creating a full knowledge index for cybersecurity.
-- Once I am done with the full table of contents, I will add theory and resources.
+- This is an always work-in-progress project.
+- I am creating a complete index for cybersecurity.
+- Here you can find resources & tools to become a killer InfoSec expert.
+- You can also find resources for job hunting and for improving your soft skills.
 - Enjoy and keep learning!
 
 ## Sections
