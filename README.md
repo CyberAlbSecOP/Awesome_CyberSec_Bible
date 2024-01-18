@@ -1,4 +1,4 @@
-# Cybersecurity_Full_Theory
+# Awesome Complete Cybersecurity
 
 - This is an always work-in-progress project.
 - I am creating a complete index for cybersecurity.
