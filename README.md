@@ -8,34 +8,55 @@
 ## Sections
 
 - [Cybersecurity Skills](#cybersecurity-skills)
-- [IT Skills](#it-skills)
 - [Work \& Business Skills](#work--business-skills)
+- [IT Skills](#it-skills)
 
 ### Cybersecurity Skills
 
-- [Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 - [AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
+- [Andoid Security 2](https://github.com/saeidshirazi/awesome-android-security)
+- [Android Security 3](https://github.com/wtsxDev/android-security-list)
+- [API Security](https://github.com/jaegeral/security-apis)
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+- [Application Security](https://github.com/0xn3va/cheat-sheets)
 - [APT Notes](https://github.com/kbandla/APTnotes)
+- [AWS Security](https://github.com/jassics/awesome-aws-security)
+- [AZURE Security](https://github.com/kmcquade/awesome-azure-security)
 - [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+- [Book Of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security)
+- [Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 - [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
 - [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
+- [Bug Bounty Beginner Resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [Bug Bounty Cheat Sheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
+- [Bug Bounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+- [Bug Bounty Theory](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 - [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest)
 - [CTF](https://github.com/apsdehal/awesome-ctf)
 - [CTF Tool](https://github.com/SandySekharan/CTF-tool)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
+- [Cryptography Papers](https://github.com/pFarb/awesome-crypto-papers)
+- [Cryptography Post-Quantum](https://github.com/veorq/awesome-post-quantum)
 - [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc)
 - [CVE PoC updated daily](https://github.com/trickest/cve)
+- [CyberSec GPTs](https://github.com/fr0gger/Awesome-GPT-Agents)
+- [CyberSec Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
+- [CyberSec Conferences](https://github.com/cryptax/confsec)
+- [CyberSec Roadmaps](https://github.com/brcyrr/CyberSecurityRoadmapSuggestions)
+- [CyberSec Skills Affinament](https://github.com/joe-shenouda/awesome-cyber-skills)
+- [Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
 - [Detection Lab](https://github.com/clong/DetectionLab)
 - [DevSecOps](https://github.com/devsecops/awesome-devsecops)
+- [DevSecOps Resources](https://github.com/krol3/devsecops-resources)
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- [Ethical Hacking](https://github.com/husnainfareed/awesome-ethical-hacking-resources)
 - [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
-- [Forensics](https://github.com/Cugu/awesome-forensics)
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Gray Hacker Resources](https://github.com/bt3gl/Gray-Hacker-Resources)
 - [GTFOBins](https://gtfobins.github.io)
+- [h4ker](https://github.com/The-Art-of-Hacking/h4cker)
 - [Hacker101](https://github.com/Hacker0x01/hacker101)
 - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
@@ -48,22 +69,32 @@
 - [InfoSec](https://github.com/onlurking/awesome-infosec)
 - [IOC](https://github.com/sroberts/awesome-iocs)
 - [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)
+- [IoT Security](https://github.com/V33RU/IoTSecurity101)
+- [IOS Security](https://github.com/Cy-clon3/awesome-ios-security)
 - [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking)
 - [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - [Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
+- [Malware Tools](https://github.com/0x4143/malware-gems)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Malware Development](https://github.com/rootkit-io/awesome-malware-development)
 - [OSINT](https://github.com/jivoi/awesome-osint)
 - [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)
 - [Pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 - [Payloads](https://github.com/foospidy/payloads)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Pentest](https://github.com/enaqx/awesome-pentest)
+- [Pentest 2](https://github.com/wtsxDev/Penetration-Testing)
+- [Pentest 3](https://github.com/AlbusSec/Penetration-List)
 - [Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 - [Pentest Wiki](https://github.com/nixawk/pentest-wiki)
+- [Personal Security](https://github.com/Lissy93/personal-security-checklist)
+- [Piracy](https://github.com/Igglybuff/awesome-piracy)
+- [Privacy](https://github.com/Lissy93/awesome-privacy)
 - [PHP Security](https://github.com/ziadoz/awesome-php#security)
 - [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)
 - [Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- [Reconoissance](https://github.com/nateahess/awesome-recon-tools)
 - [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 - [Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity)
 - [Resource List](https://github.com/FuzzySecurity/Resource-List)
@@ -75,6 +106,7 @@
 - [Security](https://github.com/sbilly/awesome-security)
 - [Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
 - [Security List](https://github.com/zbetcheckin/Security_list)
+- [Security Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 - [Serverless Security](https://github.com/puresec/awesome-serverless-security/)
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
@@ -88,177 +120,63 @@
 - [Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security)
 - [WiFi Arsenal](https://github.com/0x90/wifi-arsenal)
+- [Windows Security](https://github.com/chryzsh/awesome-windows-security)
 - [Windows Exploitation - Advanced](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
 - [YARA](https://github.com/InQuest/awesome-yara)
 
-### IT Skills
-
-- [Platforms](#Platforms)
-- [Programming Languages](#Programming-Languages)
-- [Front-End Development](#Front-End-Development)
-- [Back-End Development](#Back-End-Development)
-- [Computer Science](#Computer-Science)
-- [Big Data](#Big-Data)
-- [Editors](#Editors)
-- [Gaming](#Gaming)
-- [Development Environment](#Development-Environment)
-- [Entertainment](#Entertainment)
-- [Databases](#Databases)
-- [Media](#Media)
-- [Security](#Security)
-- [Content Management Systems](#Content-Management-Systems)
-- [Hardware](#Hardware)
-- [Business](#Business)
-- [Work](#Work)
-- [Networking](#Networking)
-- [Decentralized Systems](#Decentralized-Systems)
-- [Health and Social Science](#Health-and-Social-Science)
-- [Testing](#Testing)
-
 ### Work & Business Skills
 
-- [Communication Skills](#Communication-Skills)
-  - [Verbal Communication](#Verbal-Communication)
-  - [Non-Verbal Communication](#Non-Verbal-Communication)
-  - [Visual Communication](#Visual-Communication)
-  - [Written Communication ](#Written-Communication)
-  - [Active Listening](#Active-Listening)
-  - [Clarity](#Clarity)
-  - [Confidence](#Confidence)
-  - [Interviewing](#Interviewing)
-  - [Negotiation](#Negotiation)
-  - [Personal Branding](#Personal-Branding)
-  - [Persuasion](#Persuasion)
-  - [Presentation Skills](#Presentation-Skills)
-  - [Public Speaking](#Public-Speaking)
-  - [Storytelling](#Storytelling)
-  - [Diplomacy](#Diplomacy)
-  - [Empathy](#Empathy)
-  - [Friendliness](#Friendliness)
-  - [Humour](Humour)
-  - [Networking](#Networking)
-  - [Patience](#Patience)
-  - [Positive Reinforcement](#Positive-Reinforcement)
-  - [Sensitivity](#Sensitivity)
-  - [Tolerance](#Tolerance)
-- [Problem-Solving Skills](#Problem-Solving-Skills)
-  - [Analysis](#Analysis)
-  - [Artistic Sense](#Artistic-Sense)
-  - [Brainstorming](#Brainstorming)
-  - [Design](#Design)
-  - [Design Sense](#Design-Sense)
-  - [Divergent Thinking ](#Divergent-Thinking)
-  - [Experimenting](#Experimenting)
-  - [Imagination](#Imagination)
-  - [Innovation](#Innovation)
-  - [Insight](#Insight)
-  - [Inspiration](#Inspiration)
-  - [Lateral Thinking](#Lateral-Thinking)
-  - [Logical Reasoning](#Logical-Reasoning)
-  - [Mind Mapping](#Mind-Mapping)
-  - [Observation](#Observation)
-  - [Persistence](#Persistence)
-  - [Questioning](#Questioning)
-  - [Reframing](#Reframing)
-  - [Troubleshooting](#Troubleshooting)
-- [Leadership Skills](#Leadership-Skills)
-  - [People Management](#People-Management)
-  - [Project Management](#Project-Management)
-  - [Remote Team Management](#Remote-Team-Management)
-  - [Talent Management](#Talent-Management)
-  - [Virtual Team Management](#Virtual-Team-Management)
-  - [Meeting Management](#Meeting-Management)
-  - [Agility](#Agility)
-  - [Coaching](#Coaching)
-  - [Conflict or Dispute Resolution](#Conflict-or-Dispute-Resolution)
-  - [Cultural Intelligence](#Cultural-Intelligence)
-  - [Deal-Making](#Deal-Making)
-  - [Decision-Making](#Decision-Making)
-  - [Delegation](#Delegation)
-  - [Facilitating](#Facilitating)
-  - [Give Clear Feedback](#Give-Clear-Feedback)
-  - [Managing Difficult Conversations](#Managing-Difficult-Conversations)
-  - [Mentoring](#Mentoring)
-  - [Strategic Planning ](#Strategic-Planning)
-  - [Supervising](#Supervising)
-  - [Team-Building](#Team-Building)
-  - [Versatility](#Versatility)
-  - [Authenticity](#Authenticity)
-  - [Encouraging](#Encouraging)
-  - [Generosity](#Generosity)
-  - [Humility](#Humility)
-  - [Inspiring](#Inspiring)
-- [Work Ethic Skills](#Work-Ethic-Skills)
-  - [Attentive](#Attentive)
-  - [Business Ethics](#Business-Ethics)
-  - [Calm](#Calm)
-  - [Commitment](#Commitment)
-  - [Competitiveness](#Competitiveness)
-  - [Curiosity](#Curiosity)
-  - [Dependability](#Dependability)
-  - [Discipline](#Discipline)
-  - [Emotion Management](#Emotion-Management)
-  - [Highly Organized](#Highly-Organized)
-  - [Independence](#Independence)
-  - [Initiative](#Initiative)
-  - [Integrity](#Integrity)
-  - [Motivated](#Motivated)
-  - [Open-Minded](#Open-Minded)
-  - [Optimistic](#Optimistic)
-  - [Perseverant](#Perseverant)
-  - [Professional](#Professional)
-  - [Punctual](#Punctual)
-  - [Reliable](#Reliable)
-  - [Resilient](#Resilient)
-  - [Responsible](#Responsible)
-  - [Results-Oriented](#Results-Oriented)
-  - [Taking Criticism](#Taking-Criticism)
-  - [Tolerance of Change and Uncertainty](#Tolerance-of-Change-and-Uncertainty)
-  - [Trainable](#Trainable)
-- [Teamwork Skills](#Teamwork-Skills)
-  - [Accept Feedback](#Accept-Feedback)
-  - [Collaborative](#Collaborative)
-  - [Cooperation](#Cooperation)
-  - [Coordination](#Coordination)
-  - [Deal with Difficult Situations](#Deal-with-Difficult-Situations)
-  - [Disability Awareness](#Disability-Awareness)
-  - [Diversity Awareness](#Diversity-Awareness)
-  - [Emotional Intelligence](#Emotional-Intelligence)
-  - [Idea Exchange](#Idea-Exchange)
-  - [Influential](#Influential)
-  - [Intercultural Competence](#Intercultural-Competence)
-  - [Interpersonal Relationships Skills](#Interpersonal-Relationships-Skills)
-  - [Mediation](#Mediation)
-  - [Office Politics Management](#Office-Politics-Management)
-  - [Personality Conflicts Management](#Personality-Conflicts-Management)
-  - [Respectfulness](#Respectfulness)
-  - [Sales Skills](#Sales-Skills)
-  - [Self-Awareness](#Self-Awareness)
-  - [Social Skills](#Social-Skills)
-- [Time Management Skills](#Time-Management-Skills)
-  - [Acuity](#Acuity)
-  - [Allocating Resources](#Allocating-Resources)
-  - [Coping](#Coping)
-  - [Critical Observation](#Critical-Observation)
-  - [Focus](#Focus)
-  - [Goal-Setting](#Goal-Setting)
-  - [Introspection](#Introspection)
-  - [Memory](#Memory)
-  - [Organization](#Organization)
-  - [Personal Time Management](#Personal-Time-Management)
-  - [Planning](#Planning)
-  - [Prioritization](#Prioritization)
-  - [Recall](#Recall)
-  - [Scheduling](#Scheduling)
-  - [Sense of Urgency](#Sense-of-Urgency)
-  - [Streamlining](#Streamlining)
-  - [Stress Management](#Stress-Management)
-  - [Task Planning](#Task-Planning)
-  - [Task Tracking](#Task-Tracking)
-  - [Time Awareness](#Time-Awareness)
-  - [Work-Life Balance](#Work-Life-Balance)
- 
-## Platforms
+- [Behaviors](https://github.com/yashwant/awesome-behaviors)
+- [CEO Resources](https://github.com/kuchin/awesome-ceo)
+- [Chief Technology Officers Resources](https://github.com/kuchin/awesome-cto)
+- [Cybersecurity Management](https://github.com/Arudjreis/awesome-security-GRC)
+- [Investing](https://github.com/mr-karan/awesome-investing)
+- [Investing 2](https://github.com/melg8/awesome-investment)
+- [IT Soft Skills](https://github.com/mountblue/soft-skills-track)
+- [Leadership](https://github.com/bedieber/awesome-leadership)
+- [Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
+- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health)
+- [Open Finance](https://github.com/quantmind/awesome-open-finance)
+- [Personal Finance](https://github.com/finwiki/awesome-personal-finance)
+- [Personal Finance Tools](https://github.com/ashishb/personal-finance-awesome)
+- [Software Developer Skills](https://github.com/websense/SoftwareSkillsModules)
+- [Software Developer Skills 2](https://github.com/meyusufdemirci/DeveloperMentorship#soft-skills)
+- [Soft SKills](https://github.com/eleev/soft-skills)
+- [Soft Skills](https://github.com/labudahi/soft-skills-training)
+- [Technical Communication](https://github.com/lilin90/awesome-technical-communication)
+- [Writing Tools](https://github.com/yowainwright/awesome-writing-tools)
+
+### IT Skills
+
+- [Platforms](#platforms)
+- [Programming Languages](#programming-languages)
+- [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
+- [Computer Science](#computer-science)
+- [Big Data](#big-data)
+- [Theory](#theory)
+- [Books](#books)
+- [Editors](#editors)
+- [Gaming](#gaming)
+- [Development Environment](#development-environment)
+- [Entertainment](#entertainment)
+- [Databases](#databases)
+- [Media](#media)
+- [Learn](#learn)
+- [Security](#security)
+- [Content Management Systems](#content-management-systems)
+- [Hardware](#hardware)
+- [Business](#business)
+- [Work](#work)
+- [Networking](#networking)
+- [Decentralized Systems](#decentralized-systems)
+- [Health and Social Science](#health-and-social-science)
+- [Events](#events)
+- [Testing](#testing)
+- [Miscellaneous](#miscellaneous)
+- [Related](#related)
+
+#### Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
@@ -316,7 +234,7 @@
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
 
-## Programming Languages
+#### Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
@@ -397,7 +315,7 @@
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 
-## Front-End Development
+#### Front-End Development
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
@@ -482,7 +400,7 @@
 - [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
 - [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
 
-## Back-End Development
+#### Back-End Development
 
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
@@ -515,7 +433,7 @@
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 
-## Computer Science
+#### Computer Science
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 - [Data Science](https://github.com/academic/awesome-datascience#readme)
@@ -555,7 +473,7 @@
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
-## Big Data
+#### Big Data
 
 - [Big Data](https://github.com/0xnr/awesome-bigdata#readme)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
@@ -566,7 +484,7 @@
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 
-## Theory
+#### Theory
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
@@ -582,7 +500,7 @@
 - [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 - [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 
-## Books
+#### Books
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
 - [Go Books](https://github.com/dariubs/GoBooks#readme)
@@ -591,7 +509,7 @@
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
-## Editors
+#### Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 - [Vim](https://github.com/mhinz/vim-galore#readme)
@@ -600,7 +518,7 @@
 - [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 
-## Gaming
+#### Gaming
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
@@ -630,7 +548,7 @@
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
-## Development Environment
+#### Development Environment
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
@@ -655,7 +573,7 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
-## Entertainment
+#### Entertainment
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
@@ -663,7 +581,7 @@
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
 
-## Databases
+#### Databases
 
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
@@ -683,7 +601,7 @@
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
-## Media
+#### Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts#readme)
@@ -700,7 +618,7 @@
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
-## Learn
+#### Learn
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
@@ -719,7 +637,7 @@
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
-## Security
+#### Security
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
@@ -747,7 +665,7 @@
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 
-## Content Management Systems
+#### Content Management Systems
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
@@ -760,7 +678,7 @@
 - [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 - [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
 
-## Hardware
+#### Hardware
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
@@ -774,7 +692,7 @@
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
 
-## Business
+#### Business
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
@@ -790,7 +708,7 @@
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
-## Work
+#### Work
 
 - [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
@@ -802,7 +720,7 @@
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
-## Networking
+#### Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
@@ -811,7 +729,7 @@
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 - [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
-## Decentralized Systems
+#### Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
@@ -829,7 +747,7 @@
 - [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 
-## Health and Social Science
+#### Health and Social Science
 
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
@@ -842,13 +760,13 @@
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
-## Events
+#### Events
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 - [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
-## Testing
+#### Testing
 
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
@@ -861,7 +779,7 @@
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
-## Miscellaneous
+#### Miscellaneous
 
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
@@ -987,13 +905,3 @@
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
-
-## Related
-
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
-- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
-- [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.
