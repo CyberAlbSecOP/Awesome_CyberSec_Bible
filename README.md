@@ -174,7 +174,6 @@
 - [Events](#events)
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
-- [Related](#related)
 
 #### Platforms
 
