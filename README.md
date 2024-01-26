@@ -1,4 +1,4 @@
-# Awesome Complete Cybersecurity
+# Awesome Cybersecurity Bible
 
 - This is an always work-in-progress project.
 - I am creating a complete index for cybersecurity.
