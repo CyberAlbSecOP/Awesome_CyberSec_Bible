@@ -6,7 +6,7 @@
 - You can also find resources for job hunting and for improving your soft skills.
 - Enjoy and keep learning!
 
-- A big thank you, goes to all the awesome-lists in this repository, please consider supporting them.
+- A big thank you, goes to all the awesome-lists in this repository, please support them.
 
 ## Sections
 
