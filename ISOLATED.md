@@ -1,3 +1,0 @@
-first remove descriptions leave only main terms.then rewrite it using this format:- [Text](#Link). finally reorder lines in alphabetical order usinge the first letter.
-
-remove descriptions leave only main terms
