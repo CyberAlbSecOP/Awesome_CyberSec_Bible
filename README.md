@@ -86,6 +86,7 @@
 - [Pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 - [Payloads](https://github.com/foospidy/payloads)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [PentestBible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 - [Pentest](https://github.com/enaqx/awesome-pentest)
 - [Pentest 2](https://github.com/wtsxDev/Penetration-Testing)
 - [Pentest 3](https://github.com/AlbusSec/Penetration-List)
