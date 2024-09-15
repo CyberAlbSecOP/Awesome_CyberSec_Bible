@@ -1,3 +1,5 @@
+![image](https://i.ibb.co/xm5VhjX/DALL-E-2024-09-16-00-02-12-A-thick-futuristic-book-resembling-a-Cybersecurity-Bible-bound-in-sleek-m.webp)
+
 # 🚀 Awesome Cybersecurity Bible 📖
 
 Welcome to the **Awesome Cybersecurity Bible**, an ever-evolving resource hub designed to help you master **cybersecurity** and stay updated with the latest tools, resources, and skills to become a top-tier InfoSec expert. Whether you're hunting for jobs, polishing soft skills, or diving deep into technical knowledge, this repository has something for everyone! Keep exploring, keep learning, and support the awesome lists that fuel this journey. 🙌
