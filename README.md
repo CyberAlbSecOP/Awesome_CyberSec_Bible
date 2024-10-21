@@ -48,6 +48,7 @@ A huge thank you to the **awesome-lists** community for contributing to these re
   - [Threat Hunting](#threat-hunting)
   - [Vulnerability Research](#vulnerability-research)
   - [Web Security](#web-security)
+  - [Wireless & WiFi](#wireless-&-wifi)
   - [Wordlists](#wordlists)
   - [Miscellaneous](#miscellaneous)
 - [Work & Business Skills](#work--business-skills)
@@ -84,6 +85,10 @@ A huge thank you to the **awesome-lists** community for contributing to these re
 
 ### Blue Teaming
 - [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam)
+- [Awesome Soc](https://github.com/cyb3rxp/awesome-soc)
+- [Awesome Soc Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
+- [Awesome Free Online SOC And Pentest Tools](https://github.com/CyberAlbSecOP/Awesome_Free_Online_SOC_And_Pentest_Tools)
+- [BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools)
 - [Detection Lab](https://github.com/clong/DetectionLab)
 
 ### Cloud Security
@@ -176,6 +181,7 @@ A huge thank you to the **awesome-lists** community for contributing to these re
 - [Security Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 
 ### Penetration Testing
+- [Awesome Hacking Apps for Android](https://github.com/CyberAlbSecOP/Awesome_Hacking_Apps_for_Android)
 - [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest)
 - [Payloads](https://github.com/foospidy/payloads)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
@@ -226,6 +232,10 @@ A huge thank you to the **awesome-lists** community for contributing to these re
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 - [API Security](https://github.com/jaegeral/security-apis)
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+
+### Wireless & WiFi
+- [WiFi Pentesting Guide](https://github.com/ricardojoserf/wifi-pentesting-guide)
+- [Wireless Penetration Testing](https://github.com/Offensive-Wireless/Wireless-Penetration-Testing)
 
 ### Wordlists
 - [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)
