@@ -198,6 +198,7 @@ A huge thank you to the **awesome-lists** community for contributing to these re
 ### Privacy & Personal Security
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
+- [Fileshot.io](https://fileshot.io)
 
 ### Reconnaissance
 - [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
