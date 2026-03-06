@@ -1,4 +1,4 @@
-![image](https://i.ibb.co/xm5VhjX/DALL-E-2024-09-16-00-02-12-A-thick-futuristic-book-resembling-a-Cybersecurity-Bible-bound-in-sleek-m.webp)
+![image](https://ibb.co/spCWBMz4)
 
 # 🚀 Awesome Cybersecurity Bible 📖
 
@@ -8,9 +8,14 @@ Welcome to the **Awesome Cybersecurity Bible**, an ever-evolving resource hub de
 - 📚 **Comprehensive Index:** Everything you need to know about cybersecurity in one place.
 - 🛠️ **Tools & Resources:** Stay equipped with the latest cybersecurity tools.
 - 💼 **Career & Soft Skills:** Resources for job hunting and soft skills development.
-- 🔄 **Continuous Updates:** We're constantly adding new content—this project is always a work in progress!
+- 🔄 **Continuous Updates:** I am constantly adding new content — this project is always a work in progress!
 
-A huge thank you to the **awesome-lists** community for contributing to these resources. Don't forget to show them some love! ❤️
+A huge thank you to all the community for contributing to these resources. Don't forget to show them some love! ❤️
+
+---
+
+## 🌐 New Web Version Here!
+-[Cybersecurity Tools](https://start.me/p/bpjxDe/cybersec-tools)
 
 ---
 
