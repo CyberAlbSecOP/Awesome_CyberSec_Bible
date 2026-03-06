@@ -1,4 +1,4 @@
-![image](https://i.ibb.co/fV9DcPLW/1.png)
+![image]()
 
 # 🚀 Awesome Cybersecurity Bible 📖
 
